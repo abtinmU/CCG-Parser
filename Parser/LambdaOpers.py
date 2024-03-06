@@ -1,7 +1,4 @@
-import Utils
-import LambdaUtils
-import ModalLogic
-import ClassifyVars
+from ClassifyVars import *
 
 # α-conversion
 

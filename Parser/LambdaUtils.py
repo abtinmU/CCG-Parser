@@ -1,5 +1,5 @@
 from typing import Union, Set
-import Utils
+from Utils import *
 
 # Types #
 

@@ -1,5 +1,4 @@
-import Utils
-import LambdaUtils
+from LambdaUtils import *
 
 class Conjunction(LambdaTerm):
     def __init__(self, *conjuncts):

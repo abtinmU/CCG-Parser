@@ -1,6 +1,4 @@
-import Utils
-import LambdaUtils
-import ModalLogic
+from ModalLogic import *
 
 
 def free_vars(term):

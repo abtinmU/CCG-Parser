@@ -1,8 +1,4 @@
-import Utils
-import LambdaUtils
-import ModalLogic
-import ClassifyVars
-import LambdaOpers
+from LambdaOpers import *
 
 from typing import Union, List
 

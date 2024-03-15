@@ -1,4 +1,4 @@
-from LambdaOpers import *
+from LambdaCalculus import *
 
 from typing import Union, List
 
